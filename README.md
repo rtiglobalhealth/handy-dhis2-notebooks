@@ -1,2 +1,2 @@
-# handy_dhis2_notebooks
+# handy DHIS2 Notebooks
 A collection of handy scripts
